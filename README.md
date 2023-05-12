@@ -58,18 +58,3 @@ Conclusion
 
 6- Using this data, a Content based recommender system was created using cosine similarity, which provided recommendations for Movies and TV shows.
 
-cast : Actors involved in the movie / show
-
-country : Country where the movie / show was produced
-
-date_added : Date it was added on Netflix
-
-release_year : Actual Releaseyear of the movie / show
-
-rating : TV Rating of the movie / show
-
-duration : Total Duration - in minutes or number of seasons
-
-listed_in : Genere
-
-description: The Summary description
